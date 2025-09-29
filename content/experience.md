@@ -1,35 +1,30 @@
----
-title: 'Experience'
-date: 2023-10-24
-type: landing
+experience:
+  - title: Research Associate
+    company: University of Sheffield
+    company_url: "https://www.sheffield.ac.uk"
+    location: Sheffield, UK
+    date_start: 2024-01-01
+    date_end: ""
+    description: |
+      - Applied text mining and topic modelling (LDA) to analyse UK Modern Slavery Act statements, identifying key themes and assessing grievance disclosure effectiveness.
+      - Built a Decision Support System using BWM and STE to improve decision-making efficiency.
 
-design:
-  spacing: '5rem'
+  - title: Teaching Assistant
+    company: rTriibe (Education Recruitment Agency)
+    company_url: "https://rtriibe.com"
+    location: Sheffield, UK
+    date_start: 2024-01-01
+    date_end: ""
+    description: |
+      - Supported teachers across primary and secondary schools with lesson delivery, classroom management, and one-to-one/small-group support.
+      - Helped maintain a positive and safe learning environment.
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
----
+  - title: Software Developer
+    company: Asan Tech Mana Company
+    location: Shiraz, Iran
+    date_start: 2014-01-01
+    date_end: 2021-12-31
+    description: |
+      - Developed and maintained Java-based enterprise applications with emphasis on backend logic and relational database integration.
+      - Led migration of legacy systems to modern frameworks, improving maintainability and user experience.
+      - Collaborated with cross-functional teams to troubleshoot, deploy, and document software modules.
