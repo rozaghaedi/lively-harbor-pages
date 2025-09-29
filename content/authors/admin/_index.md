@@ -6,15 +6,15 @@ title: Rosa Ghaedi
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Rosa
+last_name: Ghaedi
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/Her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Computer Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Sheffield
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,25 +41,25 @@ profiles:
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/rosa-ghaedi-b15329231/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=FhUWJo4AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+
   - Computer Vision
-  - Reinforcement Learning
+  - Text Mining
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: MSc Computer Science (AI Focus)
+    institution: Manchester Metropolitan University
+    date_start: 2023-09-27
+    date_end: 2024-11-28
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _ Deep Learning-Based Cross-Domain Facial Expression Recognition. Accepted to Asian Conference on Machine Learning (ACML2025).
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
