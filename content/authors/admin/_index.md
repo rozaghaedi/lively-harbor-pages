@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Rosa Ghaedi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Rosa
+last_name: Ghaedi
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Computer Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Manchester Metropolitan University
     url: https://ai.meta.com/
 
 # Social network links
@@ -50,14 +50,15 @@ profiles:
 interests:
   - Large Language Models
   - Computer Vision
-  - Reinforcement Learning
+  - Deep Learnin
+  - Text Mining
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: MSc in Computer Science (AI Focus)
+    institution: Manchester Metropolitan University
+    date_start: 2023-09-27
+    date_end: 2024-11-28
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
