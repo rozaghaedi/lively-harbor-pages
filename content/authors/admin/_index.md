@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Rosa Ghaedi
+title: Razieh (Rosa) Ghaedi
+
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -28,18 +29,21 @@ role: Computer Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Sheffield
-    url: 
+    url: https://www.sheffield.ac.uk/
+  - name: Manchester Metropolitan University
+    url: https://www.mmu.ac.uk/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:rozaghaedi90@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/rozaghaedi
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rosa-ghaedi-b15329231/
   - icon: academicons/google-scholar
@@ -49,121 +53,119 @@ profiles:
 
 interests:
 
+  - Machine Learning
   - Computer Vision
-  - Text Mining
-  - AI Ethics
+  - Natural Language Processing
+  - AI for Social Good
+
 
 education:
-  - area: MSc Computer Science (AI Focus)
+  - area: MSc Computer Science
     institution: Manchester Metropolitan University
-    date_start: 2023-09-27
-    date_end: 2024-11-28
+    date_start: 2023-09-01
+    date_end: 2024-10-31
     summary: |
-      Thesis on _ Deep Learning-Based Cross-Domain Facial Expression Recognition. Accepted to Asian Conference on Machine Learning (ACML2025).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      Graduated with Distinction (80/100).  
+      Dissertation: _Deep Learning-Based Cross-Domain Facial Expression Recognition_ (Grade: 80/100).  
+      Accepted to Asian Conference on Machine Learning (ACML 2025).  
+      Relevant Coursework: Advanced OOP, Algorithms & Data Structures, Cloud & Enterprise Development, AI Ethics & Governance.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BSc Information Technology Engineering
+    institution: Shiraz University of Technology
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2014-02-01
     summary: |
-      GPA: 3.9/4.0
+      Coursework: Data Structures, Algorithm Design, Advanced Programming, Operating Systems, Artificial Intelligence, Database Design.
 
-      Minored in Mathematics. President of AI Club.
+
+
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
+  - position: Research Associate
+    company_name: University of Sheffield
+    company_url: 'https://www.sheffield.ac.uk/'
+    date_start: 2024-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted text mining and topic modelling (LDA, BERTopic) on UK Modern Slavery Act statements to evaluate grievance disclosures.  
+      Developed a Decision Support System (BWM + STE) for improved prioritization and decision-making efficiency.
+
+  - position: Teaching Assistant
+    company_name: rTriibe (Education Recruitment Agency)
+    company_url: 'https://rtriibe.com/'
+    date_start: 2025-01-01
+    date_end: ''
+    summary: |2-
+      Supported classroom teaching across primary and secondary schools, assisting in lesson delivery, student supervision, and one-to-one support.
+
+  - position: Software Developer
+    company_name: Asan Tech Mana Company
+    date_start: 2014-01-01
+    date_end: 2021-01-01
+    summary: |2-
+      Developed and maintained Java-based enterprise software with relational databases.  
+      Led migration to modern frameworks and improved system performance and maintainability.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: Python, Java, C#
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: PyTorch, TensorFlow, Scikit-learn
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: chart-bar
+      - name: NLP & Text Mining (LDA, BERTopic)
+        percent: 85
+        icon: academic-cap
+      - name: Databases (PostgreSQL, MySQL, MongoDB)
+        percent: 85
+        icon: database
+      - name: Cloud (AWS EC2, S3, Lambda)
+        percent: 80
+        icon: cloud
+  - name: Tools
+    items:
+      - name: Git/GitHub, LaTeX, REST APIs
+        percent: 90
+        icon: wrench
+
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Persian
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  awards:
+  - title: Distinction Award – MSc Computer Science
+    date: '2024-10-01'
+    awarder: Manchester Metropolitan University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Graduated with Distinction (80/100) for outstanding performance and research excellence.
+
+  - title: Accepted Paper at ACML 2025
+    date: '2025-01-15'
+    awarder: Asian Conference on Machine Learning
+    icon: hero/trophy
+    summary: |
+      Paper titled _Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition_ accepted at ACML 2025.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Rosa (Razieh) Ghaedi is a Computer Scientist and Research Associate at the University of Sheffield. 
+She holds a Distinction-level MSc in Computer Science from Manchester Metropolitan University, 
+where her dissertation on cross-domain facial expression recognition was accepted at ACML 2025. 
+Her research interests span machine learning, computer vision, and text mining, 
+with applications in social good and human-centered AI. 
+Beyond research, she enjoys mentoring students and exploring innovative uses of AI for societal impact.
+
