@@ -13,15 +13,15 @@ sections:
     content:
       username: admin
       text: |
-        I am a **Research Associate** at the **University of Sheffield**, working within the Management School on text mining and data-driven decision support systems.  
-        My current work involves applying **topic modeling (LDA, BERTopic)** to analyze UK Modern Slavery Act statements and developing a **Decision Support System** using the Best–Worst Method (BWM) and Spanning Tree Enumeration (STE).  
+        I am a Research Associate at the University of Sheffield, working within the Management School on text mining and data-driven decision support systems.  
+        My current work involves applying topic modeling (LDA, BERTopic) to analyze UK Modern Slavery Act statements and developing a Decision Support System using the Best–Worst Method (BWM) and Spanning Tree Enumeration (STE).  
 
-        I hold an **MSc in Computer Science (Distinction)** from the **Manchester Metropolitan University**, where my dissertation *Deep Learning-Based Cross-Domain Facial Expression Recognition* received an 80/100 and was accepted for presentation at the **Asian Conference on Machine Learning (ACML 2025)**.  
+        I hold an MSc in Computer Science (Distinction) from the Manchester Metropolitan University, where my dissertation Deep Learning-Based Cross-Domain Facial Expression Recognition and was accepted for presentation at the Asian Conference on Machine Learning (ACML 2025).  
 
-        My academic and professional experience combine **machine learning**, **computer vision**, and **software development** with **Python**, **PyTorch**, and **Java**.  
-        I am passionate about **AI for social good**, **ethical AI**, and **interdisciplinary applications** bridging technology and societal impact.
+        My academic and professional experience combine machine learning, computer vision, and software development.  
+        I am passionate about interdisciplinary applications bridging technology and societal impact.
 
-        📬 I am open to opportunities in **Data Science**, **Deep Learning Research**, and **Python Engineering** roles where I can contribute to impactful, data-driven projects.
+        📬 I am open to opportunities in Data Science and Deep Learning Research,roles where I can contribute to impactful, data-driven projects.
       button:
         text: Download CV
         url: uploads/Razieh_Ghaedi_CV.pdf
@@ -41,15 +41,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on developing **robust and interpretable machine learning systems** across visual, textual, and multimodal data domains.  
+        My research focuses on developing robust and interpretable machine learning systems across visual, textual, and multimodal data domains.  
         I am particularly interested in:
-        - Cross-domain **facial expression recognition** and **emotion understanding**  
-        - **Text mining** and topic modeling for social impact (e.g., modern slavery analysis)  
-        - Integrating **AI ethics** and **explainability** in decision-support systems  
+        - Cross-domain facial expression recognition and emotion understanding  
+        - Text mining and topic modeling for social impact (e.g., modern slavery analysis)  
+       Recent publication highlights:
+        - _Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition_, ACML 2025  
+        - _Markov-Based Reliability Assessment for Distribution Systems Considering Failure Rates_, IEEE Access (2023)
 
-        My current projects involve combining **graph neural networks**, **attention mechanisms**, and **adversarial domain alignment** to build generalizable models that can adapt to new data distributions with minimal retraining.  
-
-        I actively collaborate across disciplines to apply AI methods in **social good**, **human–AI collaboration**, and **environmental decision-making** contexts.
     design:
       columns: '1'
   - block: collection
