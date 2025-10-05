@@ -40,16 +40,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rozaghaedi90@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/rozaghaedi
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rosa-ghaedi-b15329231/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=FhUWJo4AAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+
 
 interests:
 
