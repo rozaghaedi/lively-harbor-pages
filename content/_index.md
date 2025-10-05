@@ -16,12 +16,12 @@ sections:
         I am a Research Associate at the University of Sheffield, working within the Management School on text mining and data-driven decision support systems.  
         My current work involves applying topic modeling (LDA, BERTopic) to analyze UK Modern Slavery Act statements and developing a Decision Support System using the Best–Worst Method (BWM) and Spanning Tree Enumeration (STE).  
 
-        I hold an MSc in Computer Science (Distinction) from the Manchester Metropolitan University, where my dissertation Deep Learning-Based Cross-Domain Facial Expression Recognition and was accepted for presentation at the Asian Conference on Machine Learning (ACML 2025).  
+        I hold an MSc in Computer Science (Distinction) from the Manchester Metropolitan University, where my dissertation **Deep Learning-Based Cross-Domain Facial Expression Recognition** was accepted for presentation at the Asian Conference on Machine Learning (ACML 2025).  
 
         My academic and professional experience combine machine learning, computer vision, and software development.  
         I am passionate about interdisciplinary applications bridging technology and societal impact.
 
-        📬 I am open to opportunities in Data Science and Deep Learning Research,roles where I can contribute to impactful, data-driven projects.
+        📬 I am open to opportunities in Data Science and Deep Learning Research roles where I can contribute to impactful, data-driven projects.
       button:
         text: Download CV
         url: uploads/Razieh_Ghaedi_CV.pdf
@@ -35,22 +35,22 @@ sections:
         size: medium
         shape: circle
 
-    
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:|-
+      text: |-
         My research focuses on developing robust and interpretable machine learning systems across visual, textual, and multimodal data domains.  
         I am particularly interested in:
         - Cross-domain facial expression recognition and emotion understanding  
         - Text mining and topic modeling for social impact (e.g., modern slavery analysis)  
-       Recent publication highlights:
+
+        Recent publication highlights:
         - _Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition_, ACML 2025  
         - _Markov-Based Reliability Assessment for Distribution Systems Considering Failure Rates_, IEEE Access (2023)
-
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -62,6 +62,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -72,6 +73,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -81,6 +83,7 @@ sections:
           - events
     design:
       view: card
+
   - block: collection
     id: news
     content:
@@ -110,6 +113,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
