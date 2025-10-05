@@ -11,34 +11,45 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      text: |
+        I am a **Research Associate** at the **University of Sheffield**, working within the Management School on text mining and data-driven decision support systems.  
+        My current work involves applying **topic modeling (LDA, BERTopic)** to analyze UK Modern Slavery Act statements and developing a **Decision Support System** using the Best–Worst Method (BWM) and Spanning Tree Enumeration (STE).  
+
+        I hold an **MSc in Computer Science (Distinction)** from the **Manchester Metropolitan University**, where my dissertation *Deep Learning-Based Cross-Domain Facial Expression Recognition* received an 80/100 and was accepted for presentation at the **Asian Conference on Machine Learning (ACML 2025)**.  
+
+        My academic and professional experience combine **machine learning**, **computer vision**, and **software development** with **Python**, **PyTorch**, and **Java**.  
+        I am passionate about **AI for social good**, **ethical AI**, and **interdisciplinary applications** bridging technology and societal impact.
+
+        📬 I am open to opportunities in **Data Science**, **Deep Learning Research**, and **Python Engineering** roles where I can contribute to impactful, data-driven projects.
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Razieh_Ghaedi_CV.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: About Me
+        education: Education
+        interests: Research Interests
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
+    
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on developing **robust and interpretable machine learning systems** across visual, textual, and multimodal data domains.  
+        I am particularly interested in:
+        - Cross-domain **facial expression recognition** and **emotion understanding**  
+        - **Text mining** and topic modeling for social impact (e.g., modern slavery analysis)  
+        - Integrating **AI ethics** and **explainability** in decision-support systems  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My current projects involve combining **graph neural networks**, **attention mechanisms**, and **adversarial domain alignment** to build generalizable models that can adapt to new data distributions with minimal retraining.  
 
-        Please reach out to collaborate 😃
+        I actively collaborate across disciplines to apply AI methods in **social good**, **human–AI collaboration**, and **environmental decision-making** contexts.
     design:
       columns: '1'
   - block: collection
