@@ -16,10 +16,9 @@ sections:
         I am a Research Associate at the University of Sheffield, working within the Management School on text mining and data-driven decision support systems.  
         My current work involves applying topic modeling (LDA, BERTopic) to analyze UK Modern Slavery Act statements and developing a Decision Support System using the Best–Worst Method (BWM) and Spanning Tree Enumeration (STE).  
 
-        I hold an MSc in Computer Science (Distinction) from the Manchester Metropolitan University, where my dissertation **Deep Learning-Based Cross-Domain Facial Expression Recognition** was accepted for presentation at the Asian Conference on Machine Learning (ACML 2025).  
+        I hold an MSc in Computer Science (Distinction) from the Manchester Metropolitan University, where my dissertation Deep Learning-Based Cross-Domain Facial Expression Recognition was accepted for presentation at the Asian Conference on Machine Learning (ACML 2025).  
 
-        My academic and professional experience combine machine learning, computer vision, and software development.  
-        I am passionate about interdisciplinary applications bridging technology and societal impact.
+        My academic and professional experience combine machine learning, computer vision, and software development. I am passionate about interdisciplinary applications bridging technology and societal impact.
 
         📬 I am open to opportunities in Data Science and Deep Learning Research roles where I can contribute to impactful, data-driven projects.
       button:
