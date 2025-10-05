@@ -1,6 +1,6 @@
 ---
 #### Display name
-title: Razieh (Rosa) Ghaedi
+title: Rosa Ghaedi
 
 
 # Name pronunciation (optional)
