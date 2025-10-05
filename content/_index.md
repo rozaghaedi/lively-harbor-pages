@@ -40,7 +40,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text:|-
         My research focuses on developing robust and interpretable machine learning systems across visual, textual, and multimodal data domains.  
         I am particularly interested in:
         - Cross-domain facial expression recognition and emotion understanding  
